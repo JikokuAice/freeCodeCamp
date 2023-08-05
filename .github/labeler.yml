@@ -4,7 +4,7 @@
 'scope: curriculum':
   - curriculum/challenges/**/*
 
-'platform: learn':
+'platform: learns':
   - client/**/*
 
 'platform: api':
