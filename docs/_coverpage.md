@@ -1,6 +1,6 @@
 > ## Contribute to freeCodeCamp.org
 
-## This community is possible thanks to thousands of kind volunteers like you.
+## This wonderful community owes its existence to the kindness and selflessness of numerous volunteers, just like you.
 
 ## Here are some quick and fun ways you can help the community.
 
