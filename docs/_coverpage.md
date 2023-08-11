@@ -10,3 +10,6 @@
 - <span class='cover-icon'><i class="fab fa-github"></i></span> [Contribute to our open-source codebase](/index?id=learning-platform) on GitHub.
 
 [Read our contributing guidelines](/index.md)
+
+
+##Join the ranks of our dedicated community of volunteers by helping us make a difference in the world of coding education. Whether you're sharing your expertise on the forum, providing feedback on projects, translating resources, or contributing to our open-source codebase on GitHub, your efforts play a vital role in empowering learners worldwide. Read our contributing guidelines to get started and be a part of the [freecodecamp](https://www.freecodecamp.org)  movement
