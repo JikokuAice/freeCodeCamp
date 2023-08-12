@@ -14,47 +14,42 @@
     <meta content="freeCodeCamp.org" name="og:title" />
     <meta
       content="Contributing documentation for working on freeCodeCamp's open source codebase."
-      name="og:description"
-    />
+      name="og:description"/>
     <meta
       content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-      property="og:image"
-    />
+      property="og:image"/>
 
     <meta
       content="summary_large_image"
       key="twitter:card"
-      name="twitter:card"
-    />
+      name="twitter:card"/>
+
     <meta
       content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-      name="twitter:image"
-    />
+      name="twitter:image"/>
+
     <meta content="freeCodeCamp.org" name="twitter:title" />
+
     <meta
       content="Contributing documentation for working on freeCodeCamp's open source codebase."
-      name="twitter:description"
-    />
+      name="twitter:description"/>
 
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
       integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
-      crossorigin="anonymous"
-    />
+      crossorigin="anonymous"/>
 
     <!-- Theme -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/docsify/themes/vue.css"
-    />
-    <!-- Custom theme stylesheet -->
+      href="https://cdn.jsdelivr.net/npm/docsify/themes/vue.css"/>
+
+    <!-- custom theme stylesheet -->
     <link rel="stylesheet" href="_theme.css" />
   </head>
 
   <body>
-    <!-- Navigation (we are using a div, instead of nav to avoid conflict with docsify's nav) -->
+    <!-- navigation (we are using a div, instead of nav to avoid conflict with docsify's nav) -->
     <div class="universal-nav">
       <a class="app-name-link" data-nosearch="" href="/">
         <img alt="freeCodeCamp.org" src="images/branding/primary_logo.svg" />
@@ -64,7 +59,7 @@
       </a>
     </div>
 
-    <!-- App with its own nav, search and sidebar -->
+    <!-- App with its own nav, search, and sidebar -->
     <div id="app"></div>
     <script>
       window.$docsify = {
@@ -77,7 +72,7 @@
           '/i18n/?': '/_translations.md'
         },
 
-        // break the caching
+        //Break the caching
         requestHeaders: {
           'cache-control': 'no-cache'
         },
@@ -96,7 +91,7 @@
 
         topMargin: 90,
 
-        // we do not use the built in navbar other then in mobile view
+        //We do not use the built-in navbar other than in mobile view
         loadNavbar: true,
         mergeNavbar: true,
 
