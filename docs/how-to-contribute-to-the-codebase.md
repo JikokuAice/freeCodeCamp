@@ -23,7 +23,7 @@ Follow these steps:
    nothing to commit, working directory clean
    ```
 
-   If you got different message, then you aren't on main or your working directory isn't clean, resolve any outstanding files/commits and checkout `main`:
+   If you got a different message, then you aren't on main or your working directory isn't clean, resolve any outstanding files/commits and checkout `main`:
 
    ```console
    git checkout main
@@ -62,7 +62,7 @@ Follow these steps:
    git diff upstream/main
    ```
 
-   The resulting output should be empty. This process is important, because you will be rebase your branch on top of the latest `upstream/main` as often as possible to avoid conflicts later.
+   The resulting output should be empty. This process is important because you will rebase your branch on top of the latest `upstream/main` as often as possible to avoid conflicts later.
 
 3. Create a fresh new branch:
 
@@ -101,7 +101,7 @@ Follow these steps:
    This should show a list of `unstaged` files that you have edited.
 
    ```console
-   On branch feat/documentation
+   On-branch feat/documentation
    Your branch is up to date with 'upstream/feat/documentation'.
 
    Changes were not staged for commit:
@@ -126,7 +126,7 @@ Follow these steps:
    Or you can add all the `unstaged` files to the staging area:
 
    ```console
-   git add .
+   git add.
    ```
 
    Only the files that were moved to the staging area will be added when you make a commit.
@@ -138,11 +138,11 @@ Follow these steps:
    Output:
 
    ```console
-   On branch feat/documentation
+   On-branch feat/documentation
    Your branch is up to date with 'upstream/feat/documentation'.
 
    Changes to be committed:
-   (use "git reset HEAD <file>..." to unstage)
+   (use "git reset HEAD <file>..." to unstaged)
 
        modified:   CONTRIBUTING.md
        modified:   docs/README.md
@@ -160,7 +160,7 @@ Follow these steps:
 
    ```md
    fix: add test for JavaScript - for loop step
-   feat: add link for article for alexa skills
+   feat: add a link for an article for alexa skills
    ```
 
    Make a conventional commit message. This is a good practice as a developer, and you will be following standard practices.
@@ -207,11 +207,11 @@ A quick reference to the commands that you will need when working.
 | `pnpm test`                                                       | Run all JS tests in the system, including client, server, lint and challenge tests. |
 | `pnpm run test-client`                                            | Run the client test suite.                                                          |
 | `pnpm run test-client -u`                                         | Run the client test suite, updating the Jest snapshots that are out of sync.        |
-| `pnpm run test:curriculum`                                        | Run the curriculum test suite.                                                      |
+| `pnpm run test: curriculum`                                        | Run the curriculum test suite.                                                      |
 | `FCC_BLOCK='Basic HTML and HTML5' pnpm run test:curriculum`       | Test a specific Block.                                                              |
 | `FCC_SUPERBLOCK='responsive-web-design' pnpm run test:curriculum` | Test a specific SuperBlock.                                                         |
 | `pnpm run test-curriculum-full-output`                            | Run the curriculum test suite, without bailing after the first error                |
 | `pnpm run test-server`                                            | Run the server test suite.                                                          |
-| `pnpm run e2e`                                                    | Run the Cypress end to end tests.                                                   |
+| `pnpm run e2e`                                                    | Run the Cypress end-to-end tests.                                                   |
 | `pnpm run clean`                                                  | Uninstalls all dependencies and cleans up caches.                                   |
 | `pnpm run storybook`                                              | Starts Storybook for component library development.                                 |
