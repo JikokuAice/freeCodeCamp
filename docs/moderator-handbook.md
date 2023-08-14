@@ -68,7 +68,7 @@ Pull Requests (PRs) are how contributors submit changes to freeCodeCamp's reposi
 
    You can close invalid pull requests and reply to them with these [reply templates](reply-templates.md#closing-invalid-pull-requests).
 
-   If the changes look good, please ensure to leave an approval with a "LGTM" (Looks Good To Me) comment. Once a pull request gets at least two approvals (including yours) from the moderators or the dev-team, you can go ahead and merge it.
+   If the changes look good, please ensure to leave an approval with a "LGTM" (Looks Good To Me) comment. Once a pull request gets at least two approvals (including yours) from the moderators or the dev team, you can go ahead and merge it.
 
 2. **Challenge code edits**
 
@@ -271,7 +271,7 @@ Here's how moderators deal with violations of our [Code of Conduct](https://code
 
    If a camper breaks the [Code of Conduct](https://code-of-conduct.freecodecamp.org), don’t threaten to take moderator action, and never warn them in public. Instead, talk to them privately using the bot's `/private` command, or use the bot's moderation commands.
 
-   If a violation was clearly unintended and doesn't warrant moderation action or private conversation, make the offending camper aware of their actions without making it come across as a warning.
+   If a violation was unintended and doesn't warrant moderation action or private conversation, make the offending camper aware of their actions without making it come across as a warning.
 
    For example:
 
@@ -291,17 +291,17 @@ Here's how moderators deal with violations of our [Code of Conduct](https://code
 
    Do not see yourself as above the community. **You are the community.** And the community has trusted you to help protect something rare that we all share - a _welcoming_ place for new developers.
 
-   If you brag about being a moderator, people may feel uneasy around you, in the same way that people may feel uneasy around a police officer, even if they’re doing nothing wrong. This is just human nature.
+   If you brag about being a moderator, people may feel uneasy around you, in the same way, that people may feel uneasy around a police officer, even if they’re doing nothing wrong. This is just human nature.
 
 7. **Don’t contradict other moderators**
 
-   If you disagree with a moderator's action, talk with them in private or bring it up in the #mod-chat channel. Never override a moderator's action, and never contradict the other moderator(s) publicly. Instead, have a cool-headed discussion in `#mod-chat` and convince the moderator that they themselves should reverse their ban or change their PoV (Point of View).
+   If you disagree with a moderator's action, talk with them in private or bring it up in the #mod-chat channel. Never override a moderator's action, and never contradict the other moderator(s) publicly. Instead, have a cool-headed discussion in `#mod-chat` and convince the moderator that they should reverse their ban or change their PoV (Point of View).
 
    _Remember: We’re all on the same team. We want to dignify the role of moderators and present a unified front._
 
 8. **Talk with other moderators**
 
-   We have a `#mod-chat` room for moderators only. Use it! If you feel uncomfortable with handling a certain situation, ask other moderators for help. If you think something should be discussed, do it. You're part of the team, and we value every team member's input! Even if you totally disagree with anything in these guidelines or the [Code of Conduct](https://code-of-conduct.freecodecamp.org)!
+   We have a `#mod-chat` room for moderators only. Use it! If you feel uncomfortable with handling a certain situation, ask other moderators for help. If you think something should be discussed, do it. You're part of the team, and we value every team member's input! Even if you disagree with anything in these guidelines or the [Code of Conduct](https://code-of-conduct.freecodecamp.org)!
 
 9. **Temporarily inactive**
 
@@ -314,9 +314,9 @@ Suppose you are helping people in the community consistently over time. In that 
 If you are approved, we will add you to our moderator teams on [GitHub](https://github.com/orgs/freeCodeCamp/teams/moderators), [forum](https://forum.freecodecamp.org/g/moderators), chat, etc.
 
 > [!NOTE]
-> For GitHub: After you've been accepted as a moderator, you will receive a Github repository invitation. You'll need to head over towards [freeCodeCamp GitHub Organization Invitation](https://github.com/orgs/freeCodeCamp/invitation) to be able to accept the invitation.
+> For GitHub: After you've been accepted as a moderator, you will receive a Github repository invitation. You'll need to head over to [freeCodeCamp GitHub Organization Invitation](https://github.com/orgs/freeCodeCamp/invitation) to be able to accept the invitation.
 >
-> This is required for us to be able to give you write access to some of our repositories.
+> This is required for us to be able to give you written access to some of our repositories.
 
 ## How Our Contributors Room Works
 
@@ -328,7 +328,7 @@ We assume contributors will read anything in this room that directly mentions th
 
 You may be approached by organizations who want to partner or co-brand with freeCodeCamp somehow. Once you realize that this is what they're after, **please stop talking to them** and tell them to email `team[at]freecodecamp.org`.
 
-We get proposals like this all the time, and the staff are in the best position to judge whether such a relationship will be worth it for our community (and it rarely is).
+We get proposals like this all the time, and the staff is in the best position to judge whether such a relationship will be worth it for our community (and it rarely is).
 
 ## Dealing with (Mental) Health Inquiries
 
@@ -350,7 +350,7 @@ http://suicide.org/international-suicide-hotlines.html
 
 ## A Note on Free Speech
 
-Sometimes people will defend something offensive or incendiary that they said as "free speech."
+Sometimes people will defend something offensive or incendiary that they said is "free speech."
 
 This XKCD comic summarizes perfectly most communities' thoughts on free speech.
 
