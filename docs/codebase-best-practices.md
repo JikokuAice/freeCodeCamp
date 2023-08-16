@@ -1,6 +1,6 @@
 # Codebase Best Practices
 
-## Styling a component
+## Styling  component
 
 We recommend styling components using our [design style guide](https://design-style-guide.freecodecamp.org/). 
 
@@ -30,7 +30,7 @@ It is encouraged to use functional components over class-based components.
 
 ### Migrating a JavaScript File to TypeScript
 
-#### Retaining Git File History
+#### Retaining Git File Histories
 
 Sometimes changing the file from `<filename>.js` to `<filename>.ts` (or `.tsx`) causes the original file to be deleted, and a new one created, and other times the filename just changes - in terms of Git. Ideally, we want the file history to be preserved.
 
